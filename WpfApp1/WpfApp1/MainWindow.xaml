@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+
+    <Grid>
+      
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="1*" />
+
+        </Grid.RowDefinitions>
+        <Grid Grid.ColumnSpan="2" Margin="0,0,0,347" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox 
+                x:Name="searchField"
+                Height="30" Margin="10,0,10,0"
+                        BorderBrush="Gray"
+                     Text="Введите для поиска"
+                     TextAlignment="Left" 
+                     Padding="5"
+                     IsHitTestVisible="False"  >
+
+            </TextBox>
+            <ComboBox x:Name="sortCombBox" Height="30" Grid.Column="1" Margin="0,0,10,0">
+
+            </ComboBox>
+            <ComboBox Grid.Column="3"
+                      Height="30"
+                      Margin="0,0,10,0"
+                      Text="Фильтрация" >
+
+            </ComboBox>
+            
+        </Grid>
+        <ListView Grid.Row="1" Margin="10" Name="lvDataBinding">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        
+                    </WrapPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</Window>

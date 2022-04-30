@@ -1,0 +1,10 @@
+C:\Users\WSR\Desktop\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\WSR\Desktop\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\WSR\Desktop\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\drann\OneDrive\Рабочий стол\work\Новая папка (2)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
